@@ -6,7 +6,7 @@ public class Print_div {
 		int i=1;
 		int j=2;
 		
-		System.out.println("sum of addition : "+ (i/j));
+		System.out.println("sum of div : "+ (i/j));
 		System.out.println(" i added this progrmm");
 	}
 }
